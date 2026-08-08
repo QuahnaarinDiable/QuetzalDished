@@ -1,0 +1,9 @@
+This add-on is licensed under the GNU Lesser General Public License,
+version 3.0 or (at your option) any later version (SPDX: LGPL-3.0-or-later),
+matching the license of the Quetzal workbench it builds upon.
+
+Full text: https://www.gnu.org/licenses/lgpl-3.0.txt
+
+It uses the Quetzal workbench's existing infrastructure only — the pFeatures
+pype base class and the pCmd placement/attachment helpers — and does not
+redistribute Quetzal's source.

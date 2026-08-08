@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+  <name>Quetzal Dished Heads</name>
+  <description>Adds torispherical, ellipsoidal and hemispherical dished heads
+    as native Quetzal pype fittings: closed-walled solids with a bore and a
+    weld port that snap onto pipe ends. Requires the Quetzal workbench.</description>
+  <version>0.1.0</version>
+  <date>2026-08-06</date>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license file="LICENSE">LGPL-3.0-or-later</license>
+  <depend type="addon" optional="true">Quetzal</depend>
+  <content>
+    <workbench>
+      <classname>DishedHeadWorkbench</classname>
+      <name>Dished Heads</name>
+      <icon>Resources/icons/DishedHead.svg</icon>
+      <description>Dished heads for Quetzal piping.</description>
+    </workbench>
+  </content>
+</package>
