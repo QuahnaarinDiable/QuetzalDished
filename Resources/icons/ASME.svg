@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" font-family="sans-serif">
+  <circle cx="32" cy="32" r="24" fill="#90caf9" stroke="#37474f" stroke-width="3"/>
+  <text x="32" y="30" text-anchor="middle" font-size="15" font-weight="700" fill="#123">t&#8202;=</text>
+  <text x="32" y="46" text-anchor="middle" font-size="12" fill="#123">PR/SE</text>
+</svg>
