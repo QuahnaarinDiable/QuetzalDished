@@ -11,10 +11,11 @@
   <depend type="addon" optional="true">Quetzal</depend>
   <content>
     <workbench>
-      <classname>DishedHeadWorkbench</classname>
-      <name>Dished Heads</name>
-      <icon>Resources/icons/DishedHead.svg</icon>
-      <description>Dished heads for Quetzal piping.</description>
-    </workbench>
+  <classname>DishedHeadWorkbench</classname>
+  <name>Dished Heads</name>
+  <subdirectory>./</subdirectory>
+  <icon>Resources/icons/DishedHead.svg</icon>
+  <description>Dished heads for Quetzal piping.</description>
+</workbench>
   </content>
 </package>
